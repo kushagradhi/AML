@@ -48,3 +48,5 @@ class GridSampling(DSampling):
             return node-self.grid_Size
         else:
             return (node-self.grid_Size, node-1) 
+
+# num2=sum((GLarge.df['x6']==1) &(GLarge.df['x64']==0))
